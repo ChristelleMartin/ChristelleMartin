@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristelleMartin
-- 👀 I’m a french woman in tech and i hope to enjoy my customers'life !
+- 👀 I’m a french woman in tech and i hope to brighten my clients' lives !
 - 💞️ I create WordPress web sites with Gutemberg or DIVI, SEO friendly and efficient copywriting
 - 🌱 I’m currently learning web development : html, css, php, js and a lot of fun tips
 - ⚡ Fun fact: I'm proud to be left-handed and i talk to my cat 🐈
